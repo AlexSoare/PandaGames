@@ -1,0 +1,32 @@
+1 1 1 1 1 1 1 1 1 1 1 1 
+1 2 2 2 2 2 2 2 2 2 3 1 
+1 2 1 1 1 1 1 1 2 1 1 1 
+1 2 2 2 2 2 2 2 2 1 1 1 
+1 2 1 2 1 2 1 1 2 1 1 1 
+1 2 1 2 1 2 1 1 2 1 1 1 
+1 2 1 2 1 2 1 1 2 1 1 1 
+1 2 2 2 1 2 1 1 2 2 2 1 
+1 2 1 2 1 2 2 2 2 2 2 1 
+1 2 1 2 1 2 1 1 1 4 4 1 
+1 2 2 2 2 2 1 1 1 4 4 1 
+1 1 1 1 1 1 1 1 1 1 1 1 
+
+Caracter : 
+    Bounds : 120 60
+    Pozitie : 14
+
+Obstacol 1
+    Bounds : 180 300
+    Pozitie : 63
+
+Obstacol 2
+    Bounds : 300 300
+    Pozitie : 65
+
+Obstacol 3
+    Bounds : 360 180
+    Pozitie : 42
+
+Obstacol 4
+    Bounds : 180 480
+    Pozitie : 99

@@ -1,0 +1,28 @@
+1 1 1 1 1 1 1 1 1 1 1 1 
+1 4 1 2 2 2 2 2 2 2 4 1 
+1 2 1 2 1 2 1 1 1 1 1 1 
+1 2 1 2 2 2 1 2 2 2 2 1 
+1 2 1 2 2 2 2 2 2 1 2 1 
+1 2 1 1 2 2 2 2 2 2 2 1 
+1 2 2 2 2 3 2 2 1 1 2 1 
+1 2 1 2 2 2 2 2 2 1 2 1 
+1 2 2 2 2 1 2 2 2 1 2 1 
+1 1 1 1 1 1 2 1 2 1 2 1 
+1 4 2 2 2 2 2 2 2 1 4 1 
+1 1 1 1 1 1 1 1 1 1 1 1
+
+Carecter : 
+    Bounds : 420 60
+    Pozitie : 19
+Obstacol 1
+    Bounds : 420 240
+    Pozitie : 55
+Obstacol 2
+    Bounds : 240 240
+    Pozitie : 52
+Obstacol 3
+    Bounds : 240 420
+    Pozitie : 88
+Obstacol 4
+    Bounds : 420 420
+    Pozitie : 91
